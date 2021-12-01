@@ -1,0 +1,66 @@
+
+// .login{
+//   color: #fff;
+// }
+// .login a{
+//   color: #d39e00;
+//   font-weight: 600;
+//   text-decoration: none;
+// }
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+// input[type=text] input[type=password] ,{
+//   width: 100%;
+//   padding: 12px 20px;
+//   margin: 8px 0;
+//   display: inline-block;
+//   border: 1px solid #ccc;
+//   border-radius: 2px;
+//   box-sizing: border-box;
+// }
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.container {
+  padding: 20px;
+}
+.form-container{
+  padding: 16px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+.card-body {
+
+
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+label{
+
+  font-weight: 700;
+}
+.card {
+     box-shadow: 0px 0px 30px #f7f7f7;
+   }
+.centre
+   {
+    text-align:center;
+   }
+   .form-group{
+     padding: 12px;
+   }
+.login{
+  text-align:center;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+  }
